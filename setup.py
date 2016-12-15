@@ -7,8 +7,8 @@ setup(
     name='aksorn',
     version=open('VERSION').read().strip(),
     # Your name & email here
-    author='',
-    author_email='',
+    author='Praphan Klairith',
+    author_email='p.klairih@gmail.com',
     # If you had aksorn.tests, you would also include that in this list
     packages=find_packages(),
     # Any executable scripts, typically in 'bin'. E.g 'bin/do-something.py'
